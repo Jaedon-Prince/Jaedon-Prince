@@ -111,4 +111,4 @@ Action:
 I verified the formatting, uploaded the CV to GitHub, and cross-checked the portfolio to ensure the CV was accessible. I also submitted the portfolio link via Blackboard well before the deadline and confirmed successful submission.
 
 Result:
-I earned a perfect score (100/100). This confirmed my ability to follow instructions precisely, manage time effectively, and ensure the integrity of digital submissions—skills essential for any professional environment.
+This confirmed my ability to follow instructions precisely, manage time effectively, and ensure the integrity of digital submissions—skills essential for any professional environment.
