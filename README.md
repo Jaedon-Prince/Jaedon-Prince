@@ -111,7 +111,7 @@ Action:
 I verified the formatting, uploaded the CV to GitHub, and cross-checked the portfolio to ensure the CV was accessible. I also submitted the portfolio link via Blackboard well before the deadline and confirmed successful submission.
 
 Result:
-This confirmed my ability to follow instructions precisely, manage time effectively, and ensure the integrity of digital submissions—skills essential for any professional environment.
+This confirmed my ability to follow instructions precisely, manage time effectively, and ensure the integrity of digital submissions skills essential for any professional environment.
 
 ## Business Communication
 
@@ -181,7 +181,7 @@ After learning the theoretical aspects of interview preparation, I was required 
 The task involved recording a video of myself responding to a series of standard and behavioral interview questions. I had to dress appropriately, maintain good posture, and communicate clearly while showcasing my strengths, experiences, and motivations. The objective was to reflect a realistic and professional interview setting.
 
 **Action:**  
-I prepared by researching potential interview questions and crafting responses using the STAR method to ensure my answers were structured and detailed. I rehearsed my responses several times to refine my delivery and eliminate filler words. I also paid attention to my surroundings—choosing a quiet, well-lit space—and adjusted my tone and pace for clarity. After recording, I reviewed the video to identify areas for improvement before submitting the final version.
+I prepared by researching potential interview questions and crafting responses using the STAR method to ensure my answers were structured and detailed. I rehearsed my responses several times to refine my delivery and eliminate filler words. I also paid attention to my surroundings by choosing a quiet, well-lit space and adjusted my tone and pace for clarity. After recording, I reviewed the video to identify areas for improvement before submitting the final version.
 
 **Result:**  
 I received a **score of 100/100** for this activity. The mock interview was a valuable opportunity to put theory into practice and experience what a real interview feels like. It helped me improve my verbal communication, time management, and confidence on camera. The process also showed me the importance of preparation and reflection, as I could clearly see my growth in professional self-presentation.
