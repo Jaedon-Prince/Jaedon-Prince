@@ -236,133 +236,71 @@ I studied the course materials in depth, focusing on communication etiquette, ti
 I obtained a **perfect score of 100/100**. The lessons and assessment helped me understand how professionalism extends beyond technical skills to include behavior, respect, and collaboration. I now approach professional environments with greater awareness and confidence, ensuring that my conduct contributes positively to any organization I am part of. This experience has prepared me to adapt effectively to different workplace cultures and maintain high ethical standards.
 
 # Digital Portfolio  
-## PRP370S – Work Readiness Training  
-### Discord-Like Software Development Project
+## PRP370S – Project Presentation 3  
+### Work Integrated Learning Experience  
+### Find My Party – Discord-Like Application
 
 ---
 
-## Business Communication
+## Work Integrated Learning (WIL)
+
+### Evidence of WIL Project
 
 <details>
-<summary>Evidence</summary>
+<summary>View Evidence</summary>
 
-![Business Communication Evidence](https://github.com/user-attachments/assets/PLACEHOLDER1)
+![Find My Party Project Overview](https://github.com/user-attachments/assets/PLACEHOLDER1)
+
+![Client Server Communication](https://github.com/user-attachments/assets/PLACEHOLDER2)
 
 </details>
 
 ### Reflection (STAR Technique)
 
 **Situation:**  
-During the development of the Discord-like application, effective communication was required to clearly explain technical issues, document decisions, and discuss improvements related to the project. Clear communication was essential to ensure the project requirements were correctly understood and implemented.
+As part of my Work Integrated Learning experience, I developed a Discord-like application called **Find My Party**. The goal of this project was to simulate a real-world communication platform where users could connect, communicate, and interact through a client-server system. The project was designed to reflect industry-style software development by requiring structured design, problem-solving, and independent implementation.
 
 **Task:**  
-My task was to communicate technical concepts, problems, and solutions in a clear and professional manner, similar to how communication would occur in a real workplace environment between developers, clients, or team members.
+My task was to design and implement a functional messaging application using object-oriented programming principles and networking concepts. This included managing client-server communication, ensuring proper handling of connections, structuring the application into logical classes, and maintaining program stability. The project also required careful debugging while preserving existing functionality.
 
 **Action:**  
-I practiced structured communication by clearly explaining problems before attempting solutions, documenting changes made to the code, and using appropriate technical language. I ensured instructions, explanations, and justifications for design choices were logical, concise, and professional.
+I designed the **Find My Party** application using a client-server architecture. The server was responsible for managing connections and message flow, while the client handled user interaction and communication with the server. I separated the program into multiple classes to ensure clean structure and maintainability.  
+During development, I encountered issues related to connection handling, application termination, and message flow. I addressed these by tracing execution paths, managing input and output streams correctly, and ensuring resources were closed properly. I followed a disciplined approach by only making changes where necessary and testing the application repeatedly after each fix. This mirrored real workplace expectations where changes must be controlled and verified.
 
 **Result:**  
-This improved my ability to communicate technical information effectively and professionally. The experience strengthened my written and technical communication skills, which are essential for workplace collaboration and stakeholder interaction.
+The application functioned successfully as intended. Users could connect, communicate, and exit the application without errors. This project demonstrated my ability to apply theoretical knowledge in a practical setting and work independently on a software solution. It also strengthened my understanding of how real-world systems are structured and maintained, contributing significantly to my work readiness.
 
 ---
 
-## Interview Skills
+## Lessons Learnt
+
+### Evidence of Lessons Learnt
 
 <details>
-<summary>Evidence</summary>
+<summary>View Evidence</summary>
 
-![Interview Skills Evidence](https://github.com/user-attachments/assets/PLACEHOLDER2)
+![Code Structure and Debugging](https://github.com/user-attachments/assets/PLACEHOLDER3)
 
 </details>
 
 ### Reflection (STAR Technique)
 
 **Situation:**  
-The Discord-like project provided practical experiences that could be discussed in a professional interview setting, particularly when answering technical and behavioral questions related to problem-solving and software development.
+Throughout the development of the **Find My Party** application, I encountered several challenges related to debugging, program structure, and managing client-server communication. These challenges highlighted gaps between theoretical knowledge and practical implementation.
 
 **Task:**  
-My task was to understand how to confidently explain my role, technical decisions, and challenges faced during the project in a structured interview-style response.
+The task was to reflect on the lessons learnt during the project and identify how these experiences contributed to my technical development, problem-solving skills, and readiness for a professional work environment.
 
 **Action:**  
-I reflected on the project using structured interview techniques, clearly explaining challenges, actions taken, and outcomes achieved. I focused on logical sequencing and clarity, ensuring my explanations demonstrated both technical understanding and professional awareness.
+I learned the importance of planning application structure before writing code, especially when working with multiple interacting components. I gained a deeper understanding of object-oriented principles such as responsibility separation and encapsulation. Debugging taught me to approach problems methodically rather than making random changes. I also learned the importance of testing after every change and respecting existing functionality, as unplanned modifications can introduce new issues.
 
 **Result:**  
-This prepared me to confidently discuss my skills and experiences in interviews. I am now better equipped to articulate my problem-solving process, technical knowledge, and learning outcomes in a professional interview environment.
+These lessons significantly improved my confidence and maturity as a developing software practitioner. I now approach projects with greater structure, patience, and attention to detail. The experience has prepared me for future Work Integrated Learning opportunities and real workplace environments where accountability, disciplined problem-solving, and continuous learning are essential.
 
 ---
 
-## Mock Interview
+### Conclusion
 
-<details>
-<summary>Evidence</summary>
-
-![Mock Interview Evidence](https://github.com/user-attachments/assets/PLACEHOLDER3)
-
-</details>
-
-### Reflection (STAR Technique)
-
-**Situation:**  
-To simulate a real interview scenario, I reflected on how I would present the Discord-like project during a mock interview while maintaining professionalism and confidence.
-
-**Task:**  
-The task was to present my project experience clearly and professionally, demonstrating confidence, technical competence, and self-awareness.
-
-**Action:**  
-I prepared structured responses explaining the project objectives, my responsibilities, challenges encountered, and how these challenges were resolved. I focused on professional tone, clear delivery, and logical structure.
-
-**Result:**  
-This exercise improved my confidence and ability to present myself professionally. It reinforced the importance of preparation and structured communication in interview situations.
+The **Find My Party** project represents a meaningful Work Integrated Learning experience that allowed me to apply academic knowledge in a realistic software development context. Through this project, I developed both technical and professional skills that are directly applicable to the IT industry. The challenges faced and lessons learnt have strengthened my readiness for future workplace environments and more advanced software development projects.
 
 ---
-
-## Professional Networking
-
-<details>
-<summary>Evidence</summary>
-
-![Professional Networking Evidence](https://github.com/user-attachments/assets/PLACEHOLDER4)
-
-</details>
-
-### Reflection (STAR Technique)
-
-**Situation:**  
-Developing the Discord-like application highlighted the importance of professional networking and online presence within the software development industry.
-
-**Task:**  
-My task was to present the project in a professional manner that could be shared with peers, lecturers, and potential employers through platforms such as GitHub.
-
-**Action:**  
-I structured the project repository clearly, ensured the code was readable, and documented the project to demonstrate my skills and development process. I treated GitHub as a professional platform for showcasing my work and engaging with the broader developer community.
-
-**Result:**  
-This strengthened my understanding of professional networking and digital presence. I now feel more confident using online platforms to build professional relationships and support my career growth.
-
----
-
-## Workplace Etiquette
-
-<details>
-<summary>Evidence</summary>
-
-![Workplace Etiquette Evidence](https://github.com/user-attachments/assets/PLACEHOLDER5)
-
-</details>
-
-### Reflection (STAR Technique)
-
-**Situation:**  
-Throughout the development of the Discord-like application, professional behavior, discipline, and responsibility were required to meet project expectations.
-
-**Task:**  
-The task was to demonstrate workplace etiquette by managing time effectively, following instructions carefully, and maintaining ethical and professional standards during development.
-
-**Action:**  
-I adhered strictly to project requirements, avoided unnecessary changes to existing functionality, and approached problem-solving responsibly. I tested all changes thoroughly and ensured the application functioned correctly before final submission.
-
-**Result:**  
-This reinforced the importance of professionalism, accountability, and ethical conduct. The experience prepared me to adapt to real workplace environments where attention to detail and responsible behavior are essential.
-
----
-
