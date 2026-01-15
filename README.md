@@ -234,3 +234,135 @@ I studied the course materials in depth, focusing on communication etiquette, ti
 
 **Result:**  
 I obtained a **perfect score of 100/100**. The lessons and assessment helped me understand how professionalism extends beyond technical skills to include behavior, respect, and collaboration. I now approach professional environments with greater awareness and confidence, ensuring that my conduct contributes positively to any organization I am part of. This experience has prepared me to adapt effectively to different workplace cultures and maintain high ethical standards.
+
+# Digital Portfolio  
+## PRP370S – Work Readiness Training  
+### Discord-Like Software Development Project
+
+---
+
+## Business Communication
+
+<details>
+<summary>Evidence</summary>
+
+![Business Communication Evidence](https://github.com/user-attachments/assets/PLACEHOLDER1)
+
+</details>
+
+### Reflection (STAR Technique)
+
+**Situation:**  
+During the development of the Discord-like application, effective communication was required to clearly explain technical issues, document decisions, and discuss improvements related to the project. Clear communication was essential to ensure the project requirements were correctly understood and implemented.
+
+**Task:**  
+My task was to communicate technical concepts, problems, and solutions in a clear and professional manner, similar to how communication would occur in a real workplace environment between developers, clients, or team members.
+
+**Action:**  
+I practiced structured communication by clearly explaining problems before attempting solutions, documenting changes made to the code, and using appropriate technical language. I ensured instructions, explanations, and justifications for design choices were logical, concise, and professional.
+
+**Result:**  
+This improved my ability to communicate technical information effectively and professionally. The experience strengthened my written and technical communication skills, which are essential for workplace collaboration and stakeholder interaction.
+
+---
+
+## Interview Skills
+
+<details>
+<summary>Evidence</summary>
+
+![Interview Skills Evidence](https://github.com/user-attachments/assets/PLACEHOLDER2)
+
+</details>
+
+### Reflection (STAR Technique)
+
+**Situation:**  
+The Discord-like project provided practical experiences that could be discussed in a professional interview setting, particularly when answering technical and behavioral questions related to problem-solving and software development.
+
+**Task:**  
+My task was to understand how to confidently explain my role, technical decisions, and challenges faced during the project in a structured interview-style response.
+
+**Action:**  
+I reflected on the project using structured interview techniques, clearly explaining challenges, actions taken, and outcomes achieved. I focused on logical sequencing and clarity, ensuring my explanations demonstrated both technical understanding and professional awareness.
+
+**Result:**  
+This prepared me to confidently discuss my skills and experiences in interviews. I am now better equipped to articulate my problem-solving process, technical knowledge, and learning outcomes in a professional interview environment.
+
+---
+
+## Mock Interview
+
+<details>
+<summary>Evidence</summary>
+
+![Mock Interview Evidence](https://github.com/user-attachments/assets/PLACEHOLDER3)
+
+</details>
+
+### Reflection (STAR Technique)
+
+**Situation:**  
+To simulate a real interview scenario, I reflected on how I would present the Discord-like project during a mock interview while maintaining professionalism and confidence.
+
+**Task:**  
+The task was to present my project experience clearly and professionally, demonstrating confidence, technical competence, and self-awareness.
+
+**Action:**  
+I prepared structured responses explaining the project objectives, my responsibilities, challenges encountered, and how these challenges were resolved. I focused on professional tone, clear delivery, and logical structure.
+
+**Result:**  
+This exercise improved my confidence and ability to present myself professionally. It reinforced the importance of preparation and structured communication in interview situations.
+
+---
+
+## Professional Networking
+
+<details>
+<summary>Evidence</summary>
+
+![Professional Networking Evidence](https://github.com/user-attachments/assets/PLACEHOLDER4)
+
+</details>
+
+### Reflection (STAR Technique)
+
+**Situation:**  
+Developing the Discord-like application highlighted the importance of professional networking and online presence within the software development industry.
+
+**Task:**  
+My task was to present the project in a professional manner that could be shared with peers, lecturers, and potential employers through platforms such as GitHub.
+
+**Action:**  
+I structured the project repository clearly, ensured the code was readable, and documented the project to demonstrate my skills and development process. I treated GitHub as a professional platform for showcasing my work and engaging with the broader developer community.
+
+**Result:**  
+This strengthened my understanding of professional networking and digital presence. I now feel more confident using online platforms to build professional relationships and support my career growth.
+
+---
+
+## Workplace Etiquette
+
+<details>
+<summary>Evidence</summary>
+
+![Workplace Etiquette Evidence](https://github.com/user-attachments/assets/PLACEHOLDER5)
+
+</details>
+
+### Reflection (STAR Technique)
+
+**Situation:**  
+Throughout the development of the Discord-like application, professional behavior, discipline, and responsibility were required to meet project expectations.
+
+**Task:**  
+The task was to demonstrate workplace etiquette by managing time effectively, following instructions carefully, and maintaining ethical and professional standards during development.
+
+**Action:**  
+I adhered strictly to project requirements, avoided unnecessary changes to existing functionality, and approached problem-solving responsibly. I tested all changes thoroughly and ensured the application functioned correctly before final submission.
+
+**Result:**  
+This reinforced the importance of professionalism, accountability, and ethical conduct. The experience prepared me to adapt to real workplace environments where attention to detail and responsible behavior are essential.
+
+---
+
