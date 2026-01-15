@@ -249,10 +249,11 @@ I obtained a **perfect score of 100/100**. The lessons and assessment helped me 
 <details>
 <summary>View Evidence</summary>
 
-![Find My Party Project Overview]<img width="1837" height="923" alt="Find my party" src="https://github.com/user-attachments/assets/94274199-6a76-4a20-b1d7-81794e52715e" />
+<img width="1837" height="923" alt="Find my party" src="https://github.com/user-attachments/assets/94274199-6a76-4a20-b1d7-81794e52715e" />
+
+<img width="1837" height="927" alt="Server client screenshot" src="https://github.com/user-attachments/assets/38f01a0c-b5b3-4e02-bb09-0b2708d4fc9a" />
 
 
-![Client Server Communication](https://github.com/user-attachments/assets/PLACEHOLDER2)
 
 </details>
 
@@ -280,7 +281,9 @@ The application functioned successfully as intended. Users could connect, commun
 <details>
 <summary>View Evidence</summary>
 
-![Code Structure and Debugging](https://github.com/user-attachments/assets/PLACEHOLDER3)
+<img width="1918" height="1023" alt="Debugging" src="https://github.com/user-attachments/assets/172b6b20-4591-482e-b4c1-64b86872d12b" />
+<img width="1918" height="1023" alt="Debugging2" src="https://github.com/user-attachments/assets/1ab2ede2-16a6-4e41-95b5-c461e64105ed" />
+
 
 </details>
 
