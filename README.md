@@ -249,7 +249,8 @@ I obtained a **perfect score of 100/100**. The lessons and assessment helped me 
 <details>
 <summary>View Evidence</summary>
 
-![Find My Party Project Overview](https://github.com/user-attachments/assets/PLACEHOLDER1)
+![Find My Party Project Overview]<img width="1837" height="923" alt="Find my party" src="https://github.com/user-attachments/assets/94274199-6a76-4a20-b1d7-81794e52715e" />
+
 
 ![Client Server Communication](https://github.com/user-attachments/assets/PLACEHOLDER2)
 
